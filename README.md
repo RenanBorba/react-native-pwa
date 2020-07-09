@@ -39,7 +39,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de aplicat
   <li>Fetch API</li>
   <li>Github API</li>
   <li>vector-icons Feather</li>
-  <li>Flatlist</li>
+  <li>FlatList</li>
   <li>StyleSheet</li>
   <li>expo-camera</li>
 </ul>
