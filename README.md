@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](https://user-images.githubusercontent.com/48495838/87098388-86d27100-c21d-11ea-9f29-f500427d60c7.png)
+![logo](https://user-images.githubusercontent.com/48495838/87162863-e1f77880-c29c-11ea-84c5-05802468b1b5.png)
 
 </div>
 
