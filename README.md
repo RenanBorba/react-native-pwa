@@ -110,16 +110,6 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de aplicat
 
 <br><br>
 
-#### Web Browser (redimensionado Mobile Phone), câmera
-
-<div align="center">
-
-![01,5](https://user-images.githubusercontent.com/48495838/87096137-87b4d400-c218-11ea-85b1-9bc1df2cc7e7.png)
-
-</div>
-
-<br><br>
-
 ### Phone Emulator (Pixel 2)
 
 <div align="center">
