@@ -90,7 +90,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de aplicat
 
 <br><br>
 
-#### Web Browser (redimensionado no estilo Tablet)
+#### Web Browser (redimensionado Tablet)
 
 <div align="center">
 
