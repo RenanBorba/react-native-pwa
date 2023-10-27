@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](https://github.com/RenanBorba/react-native-pwa/assets/48495838/01bf4504-e124-41dc-81fc-895de7f06ad5)
+![pwa](https://github.com/RenanBorba/carousel-web/assets/48495838/f3b42fb5-47bc-4de2-b294-26db9f3a6c86)
 
 </div>
 
