@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](https://github.com/RenanBorba/react-native-pwa/assets/48495838/ba90f84f-4e35-4d7b-bbed-d416cd66f025)
+![logo](https://github.com/RenanBorba/react-native-pwa/assets/48495838/01bf4504-e124-41dc-81fc-895de7f06ad5)
 
 </div>
 
