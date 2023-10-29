@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para layout de aplicativo PWA (Progressive Web App) via Expo, que simula uma aplicação nativa funcionando dentro do browser, para exemplificar o uso a partir do aplicativo escrito em React Native para as multiplataformas iOS, Android e PWA (web). Usa dados vindo da API do Github e a manipulação básica da câmera, para ter a melhor visualização de um exemplo real de app.
+Aplicação Front-end Mobile desenvolvida em React Native para layout de aplicativo PWA (Progressive Web App) via Expo, que simula uma aplicação nativa funcionando dentro do browser, para exemplificar o uso a partir de um aplicativo escrito em React Native ns multiplataformas iOS, Android e PWA (web). Usa dados vindo da API do Github e a manipulação básica da câmera, para ter a melhor visualização de um exemplo real de app.
 
 <br><br>
 
